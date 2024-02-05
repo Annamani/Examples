@@ -6,6 +6,6 @@ words.sort ()
 
 print ("The words sorted in alphabetical order are as follows: ")
 
- for word in words:
+for word in words:
 
     print (word)
