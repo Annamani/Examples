@@ -1,5 +1,4 @@
 def sum_list(items):
-    # Initialize a variable 'sum_numbers' to store the sum of the numbers
     sum_numbers = 0
     # Iterate through each element 'x' in the input list 'items'
     for x in items:
