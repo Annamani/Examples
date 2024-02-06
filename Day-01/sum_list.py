@@ -1,6 +1,5 @@
 def sum_list(items):
     sum_numbers = 0
-    # Iterate through each element 'x' in the input list 'items'
     for x in items:
         # Add the current element 'x' to the 'sum_numbers' variable
         sum_numbers += x
