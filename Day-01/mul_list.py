@@ -6,3 +6,4 @@ def mul_list(items):
 
 # print(mul_list([1, 2, -8]))
 print(mul_list([1, 12, 18]))
+print(mul_list([-11,-11]))
