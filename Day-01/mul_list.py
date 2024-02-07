@@ -4,4 +4,4 @@ def mul_list(items):
         total *= x
     return total
 
-print(mul_list([1, 2, -8]))
+# print(mul_list([1, 2, -8]))
