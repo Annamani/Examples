@@ -16,7 +16,6 @@
 # 	print(x)
 # 	x += 1
 x = 5
-
 while x < 15:
 	if x % 2 == 0:
 		print("Even number found")
