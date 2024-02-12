@@ -1,7 +1,4 @@
-number=int(input("Enter a number: "))
-square=number*number
-cube=square*number
-total=number+square+cube
-print(square)
-print(cube)
-# print("Sum of power and cube of numbers: ",total)
+number1=int(input("Enter a number: "))
+number2=int("%s%s" % (number1, number1))
+number3 = int("%s%s%s" % (number1, number1, number1))
+print("Sum of (n+nn+nnn)numbers: ",number1+number2+number3)
