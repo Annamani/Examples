@@ -1,4 +1,3 @@
-# color_list = ["Red","Green","White" ,"Black"]
-color_list=input("Enter some colors: ")
+color_list = ["Red","Green","White" ,"Black"]
 print("First element: ",color_list[0])
 print("Last element: ",color_list[-1])
