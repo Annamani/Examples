@@ -2,9 +2,7 @@ def near_thousand(n):
     return ((abs(1000 - n) <= 100) or (abs(2000 - n) <= 100))
 
 print(near_thousand(1000))
-
 print(near_thousand(900))
-
 print(near_thousand(800))
 
 # Call the "near_thousand" function with the argument 2200 and print the result
