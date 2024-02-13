@@ -1,7 +1,4 @@
-# Define a function named "near_thousand" that takes an integer parameter "n"
 def near_thousand(n):
-    # Check if the absolute difference between 1000 and n is less than or equal to 100
-    # OR check if the absolute difference between 2000 and n is less than or equal to 100
     return ((abs(1000 - n) <= 100) or (abs(2000 - n) <= 100))
 
 # Call the "near_thousand" function with the argument 1000 and print the result
