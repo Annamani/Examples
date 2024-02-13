@@ -5,6 +5,7 @@ def difference_number(number):
     else:
         return abs(17-number)
 
-number=int(input("Enter a number: "))
-print(difference_number(number))
-print(difference_number(number))
+number1=int(input("Enter a number: "))
+print(difference_number(number1))
+number2=int(input("Enter a number: "))
+print(difference_number(number2))
