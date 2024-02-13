@@ -4,6 +4,4 @@ def near_thousand(n):
 print(near_thousand(1000))
 print(near_thousand(900))
 print(near_thousand(800))
-
-# Call the "near_thousand" function with the argument 2200 and print the result
 print(near_thousand(2200))
