@@ -7,4 +7,4 @@ def evenOdd(number):
         print(number, " is a Odd number")
 
 num=int(input("Enter a number: "))
-print(evenOdd(num))
+evenOdd(num)
