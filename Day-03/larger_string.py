@@ -10,8 +10,6 @@ def larger_string(text, n):
     # Return the final "result" string
     return result
 
-# Call the "larger_string" function with the arguments 'abc' and 2, then print the result
 print(larger_string('abc', 2))
-
-# Call the "larger_string" function with the arguments '.py' and 3, then print the result
 print(larger_string('.py', 3))
+
