@@ -7,5 +7,5 @@ def is_group_member(group_data, n):
     return False  # If the loop completes and no match is found, return False.
 
 # Call the is_group_member function with two different lists and integers, and print the results.
-print(is_group_member([1, 5, 8, 3], 3))  # Output: True (3 is in the list)
-print(is_group_member([5, 8, 3], -1))    # Output: False (-1 is not in the list)
+print(is_group_member([1, 5, 8, 3], 3)) 
+print(is_group_member([5, 8, 3], -1))
