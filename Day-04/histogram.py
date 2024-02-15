@@ -1,11 +1,10 @@
 def histogram(numbers):
     for n in numbers:
-        output = ''  # Initialize an empty string called output.
-        times = n     # Set the times variable to the value of n.
-        
+        output = ''  
+        times = n            
         # Use a while loop to append '*' to the output string 'times' number of times.
         while times > 0:
-            output += '*'
+            output += "@"
             times = times - 1  # Decrement the times variable.
         
         # Print the resulting output string.
