@@ -5,7 +5,6 @@ def histogram(numbers):
         while times > 0:
             output += "@ "
             times = times - 1          
-        # Print the resulting output string.
         print(output)
 
 
