@@ -1,11 +1,8 @@
-def is_group_member(group_data, n):
-    # Iterate through the elements (values) in the group_data list.
+def check_num(group_data, n):
     for value in group_data:
-        # Check if the current value is equal to the given integer, n.
         if n == value:
             return True  # If found, return True.
     return False  # If the loop completes and no match is found, return False.
 
-# Call the is_group_member function with two different lists and integers, and print the results.
-print(is_group_member([1, 5, 8, 3], 3)) 
-print(is_group_member([5, 8, 3], -1))
+print(check_num([1, 5, 8, 3], 3)) 
+print(check_num([5, 8, 3], -1))
