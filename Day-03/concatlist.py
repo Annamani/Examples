@@ -1,4 +1,3 @@
-# Define a function called concatenate_list_data that takes a list as a parameter.
 def concatenate_list_data(lst):
     result = ''  # Initialize an empty string called result.
     
