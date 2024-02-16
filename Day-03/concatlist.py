@@ -1,8 +1,7 @@
 def concatenate_list_data(lst):
     result = ''      
     for element in lst:
-        result += str(element)  # Convert each element to a string and concatenate it to the result.
-
+        result += str(element) 
     return result  # Return the concatenated string.
 
 # Call the concatenate_list_data function with a list of numbers and print the result.
