@@ -7,3 +7,4 @@ def concatenate_list_data(lst):
 print(concatenate_list_data([1, 5, 12, 2]))
 print(concatenate_list_data(["anna", "mani", "kamma"]))
 print(concatenate_list_data([1, 5, 12, 2]))
+print(concatenate_list_data([1, 5, 12, 2]))
