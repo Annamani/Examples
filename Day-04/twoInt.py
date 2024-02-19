@@ -5,9 +5,8 @@ def test_number5(x, y):
     else:
         return False
 
-
 print(test_number5(7, 2))
-print(test_number5(3, 2))
+print(test_number5(3, 2)) 
 print(test_number5(2, 2))
 print(test_number5(7, 3))
 print(test_number5(27, 53))
