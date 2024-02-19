@@ -6,7 +6,7 @@ numbers = [
 ]
 for x in numbers:
     if x == 237:
-        print(x)  # Print the number if it's 237.
-        break  # Exit the loop if 237 is found.
+        print(x) 
+        break  
     elif x % 2 == 0:
-        print(x)  # Print the number if it's even.
+        print(x)  
