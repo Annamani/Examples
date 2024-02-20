@@ -1,5 +1,4 @@
 def personal_details():
-    # Define variables 'name' and 'age' and assign values to them.
     name, age = "Simon", 19
     # Define a variable 'address' and assign a value to it.
     address = "Bangalore, Karnataka, India"
