@@ -1,6 +1,5 @@
 def personal_details():
     name, age = "Simon", 19
-    
     address = "Bangalore, Karnataka, India"
     # Print the personal details using string formatting.
     print("Name: {}\nAge: {}\nAddress: {}".format(name, age, address))
