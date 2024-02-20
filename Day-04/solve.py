@@ -1,4 +1,4 @@
-x, y = 4, 3
+x, y = 3, 3
 # result = x * x + 2 * x * y + y * y
 a=x+y
 result=a*a
