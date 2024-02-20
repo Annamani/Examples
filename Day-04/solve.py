@@ -1,4 +1,3 @@
-
 x, y = 4, 3
 # Calculate the result by squaring the sum of 'x' and 'y'.
 result = x * x + 2 * x * y + y * y
