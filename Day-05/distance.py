@@ -1,4 +1,3 @@
-# Import the math module to use the square root function.
 import math
 
 # Define the coordinates of the first point (p1) as a list.
