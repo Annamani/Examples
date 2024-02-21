@@ -1,6 +1,6 @@
 # Define the principal amount (initial investment).
 amt = 10000
-# Define the annual interest rate as a percentage.
+
 int = 3.5
 years = 7
 # FV = P(1 + r/n)^nt.
