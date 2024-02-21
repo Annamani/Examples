@@ -1,5 +1,4 @@
 amt = 10000
-
 int = 3.5
 years = 7
 # FV = P(1 + r/n)^nt.
