@@ -1,9 +1,6 @@
 import math
 
-# Define the coordinates of the first point (p1) as a list.
 p1 = [4, 0]
-
-# Define the coordinates of the second point (p2) as a list.
 p2 = [6, 6]
 
 # Calculate the distance between the two points using the distance formula.
