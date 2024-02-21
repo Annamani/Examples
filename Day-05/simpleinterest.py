@@ -1,4 +1,4 @@
-# Define the principal amount (initial investment).
+
 amt = 10000
 
 int = 3.5
