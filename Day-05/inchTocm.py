@@ -1,8 +1,6 @@
 print("Input your height: ")
 h_ft = int(input("Feet: "))
 h_inch = int(input("Inches: "))
-
-# Convert the height from feet and inches to inches.
 h_inch += h_ft * 12
 
 # Calculate the height in centimeters by multiplying by the conversion factor (2.54).
