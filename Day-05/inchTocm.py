@@ -1,7 +1,5 @@
 print("Input your height: ")
 h_ft = int(input("Feet: "))
-
-# Read the inches part of the height and convert it to an integer.
 h_inch = int(input("Inches: "))
 
 # Convert the height from feet and inches to inches.
