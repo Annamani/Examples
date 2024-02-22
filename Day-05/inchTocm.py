@@ -1,4 +1,3 @@
-# Prompt the user to input their height.
 print("Input your height: ")
 
 # Read the feet part of the height and convert it to an integer.
