@@ -1,6 +1,6 @@
 from math import sqrt
 
-print("Enter the Sides of a right angle triange: ")
+print("Enter the Sides of a right angle triangle: ")
 a = float(input("a: "))
 b = float(input("b: "))
 c=sqrt(a**2+b**2)
