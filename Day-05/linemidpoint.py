@@ -10,4 +10,4 @@ x=(x1+x2)/2
 y=(y1+y2)/2
 
 
-print(f'Midpoint of a line is {(x,y)}: ',x,y)
+print(f'Midpoint of a line is {(x,y)}')
