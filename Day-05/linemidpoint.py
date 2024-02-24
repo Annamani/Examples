@@ -8,3 +8,8 @@ y1 = float(input('The value of y (the first endpoint) '))
 # Prompt the user to enter the x and y coordinates of the second endpoint of the line.
 x2 = float(input('The value of x (the first endpoint) '))
 y2 = float(input('The value of y (the first endpoint) '))
+
+x=(x1+x2)/2
+y=(y1+y2)/2
+
+print("Midpoint of a line is : ",x,y)
