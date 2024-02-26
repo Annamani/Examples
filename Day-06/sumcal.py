@@ -2,7 +2,8 @@
 # print(s)
 # s=[10,20,30,40]
 # print(sum(s))
-# Define a function 'dict_sum' that takes a dictionary 'nums' as input and calculates the sum of its values.
+
+# Dict
 def dict_sum(nums):
    num_sum = 0
    for i in nums:
