@@ -1,4 +1,3 @@
-# Create a tuple 'nums' with a collection of numbers.
 nums = (7, 4, 9, 1, 3, 2)
 
 # Print a message indicating the original container and display the tuple 'nums'.
