@@ -5,3 +5,5 @@ for items in num:
         print("True")
     else:
         print("false")
+
+        
