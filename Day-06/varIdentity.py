@@ -1,4 +1,3 @@
-# Define a variable 'x' and assign the value 34 to it.
 x = 34
 
 # Print the identity of the variable 'x'.
