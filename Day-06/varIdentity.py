@@ -1,6 +1,4 @@
 x = 34
-
-# Print the identity of the variable 'x'.
 print("\nIdentity: ", x)
 
 # Print the data type of the variable 'x'.
