@@ -1,5 +1,3 @@
-# Doesn't work for floats
-# Prompt the user for input and store it in the 'text' variable.
 text = input("Input a word or numbers: ")
 
 # Check if the input consists of digits only using the 'isdigit' method.
