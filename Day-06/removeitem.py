@@ -1,4 +1,3 @@
-# Create a list of color names
 color = ["Red", "Black", "Green", "White", "Orange"]
 print("Original list elements:",color)
 del color[0]
