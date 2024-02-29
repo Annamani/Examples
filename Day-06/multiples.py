@@ -1,7 +1,8 @@
 def multiples(list):
-    for item in list:
+    for item in range(len(list)):
         if item%15==0:
             return item
+        
 
 
 
