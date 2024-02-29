@@ -3,7 +3,7 @@
 #       if num % 15 == 0:
 #            print(num)
 
-list1= [45, 55, 60, 37, 100, 105, 220]
-result = list(filter(lambda x: (x % 13 == 0), list1))
-print(result)
-# multiples(list)
+num_list = [45, 55, 60, 37, 100, 105, 220]
+result = list(filter(lambda x: (x % 15 == 0), num_list))
+print("Numbers divisible by 15 are", result)
+# multiples(num_list)
