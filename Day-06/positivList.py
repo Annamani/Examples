@@ -1,6 +1,4 @@
 nums = [34, 1, 0, -23, 12, -88]
-
-# Print a message along with the original list of numbers.
 print("Original numbers in the list: ", nums)
 new_nums = list(filter(lambda x: x > 0, nums))
 
