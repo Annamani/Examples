@@ -7,8 +7,6 @@
 
 import math
 nums = [10, 20, 30]
-
-# Print a message indicating the original list of numbers.
 print("Original list numbers:")
 print(nums)
 
