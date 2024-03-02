@@ -1,7 +1,4 @@
-# Import the 'reduce' function from the 'functools' module.
 from functools import reduce
-
-# Define a list named 'nums' containing a series of integers.
 nums = [10, 20, 30]
 
 # Print a message along with the original list of numbers.
