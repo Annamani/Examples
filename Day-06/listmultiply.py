@@ -7,11 +7,6 @@
 
 import math
 nums = [10, 20, 30]
-print("Original list numbers:")
-print(nums)
-
-# Calculate the product of the numbers in the list 'nums' using the 'prod' function
-# from the 'math' module.
 nums_product = math.prod(nums)
 
 # Print the product of the numbers, obtained without using a for loop.
