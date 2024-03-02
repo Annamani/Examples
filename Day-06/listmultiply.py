@@ -6,8 +6,6 @@
 # print("\nProduct of the said numbers (without using a for loop):", nums_product)
 
 import math
-
-# Define a list named 'nums' containing a series of integers.
 nums = [10, 20, 30]
 
 # Print a message indicating the original list of numbers.
