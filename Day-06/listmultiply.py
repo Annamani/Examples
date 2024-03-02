@@ -1,7 +1,5 @@
 from functools import reduce
 nums = [10, 20, 30]
-
-# Print a message along with the original list of numbers.
 print("Original list numbers:")
 print(nums)
 
