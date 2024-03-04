@@ -1,6 +1,4 @@
 str_num = "1234567890"
-
-# Print the original string.
 print("Original string:", str_num)
 
 # Print the first 6 characters of the string.
