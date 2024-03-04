@@ -1,4 +1,3 @@
-# Define a string containing a numeric value.
 str_num = "1234567890"
 
 # Print the original string.
