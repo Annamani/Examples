@@ -1,7 +1,5 @@
 str_num = "1234567890"
 print("Original string:", str_num)
-
-# Print the first 6 characters of the string.
 print('%.6s' % str_num)
 
 # Print the first 9 characters of the string.
