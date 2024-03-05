@@ -1,4 +1,3 @@
-# Assign the value 20 to the variable x.
 x = 20
 
 # Assign the value 20 to the variable y.
