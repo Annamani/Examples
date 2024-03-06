@@ -9,7 +9,6 @@ def check_type(nums):
     # Check if 'nums' is a set and return a message.
     elif isinstance(x, set) == True:
         return 'The variable x is a set'
-    # If 'nums' is none of the above types, return a generic message.
     else:
         return 'Neither a list or a set or a tuple.'
 
