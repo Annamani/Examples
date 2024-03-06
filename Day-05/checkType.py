@@ -1,4 +1,3 @@
-# Define a function to check the type of a variable 'nums'.
 def check_type(nums):
     if isinstance(x, tuple) == True:
         return 'The variable x is a tuple'
