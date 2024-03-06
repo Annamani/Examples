@@ -8,6 +8,5 @@ def test(n):
          # If 'n' is not an integer, return the message "It is a String!"
          return "It is a String!"     
 
-# Call the 'test' function with an integer argument (12) and print the result.
 print(test(12))
 print(test('23312'))
