@@ -1,6 +1,5 @@
 # Define a function to check the type of a variable 'nums'.
 def check_type(nums):
-    # Check if 'nums' is a tuple and return a message.
     if isinstance(x, tuple) == True:
         return 'The variable x is a tuple'
     elif isinstance(x, list) == True:
