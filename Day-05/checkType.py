@@ -6,7 +6,6 @@ def check_type(nums):
     # Check if 'nums' is a list and return a message.
     elif isinstance(x, list) == True:
         return 'The variable x is a list'
-    # Check if 'nums' is a set and return a message.
     elif isinstance(x, set) == True:
         return 'The variable x is a set'
     else:
