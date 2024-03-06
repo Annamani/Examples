@@ -20,8 +20,6 @@ print(check_type(x))
 # Define a variable 'x' as a set and check its type using the 'check_type' function.
 x = {'a', 'b', 'c', 'd'}
 print(check_type(x))
-
-# Define a variable 'x' as a tuple and check its type using the 'check_type' function.
 x = ('tuple', False, 3.2, 1)
 print(check_type(x))
 x = 100
