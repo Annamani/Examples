@@ -3,7 +3,6 @@ def check_type(nums):
     # Check if 'nums' is a tuple and return a message.
     if isinstance(x, tuple) == True:
         return 'The variable x is a tuple'
-    # Check if 'nums' is a list and return a message.
     elif isinstance(x, list) == True:
         return 'The variable x is a list'
     elif isinstance(x, set) == True:
