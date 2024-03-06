@@ -5,8 +5,7 @@ def test(n):
          # If 'n' is an integer, return the message "It is an integer!"
          return "It is an integer!"
     else:
-         # If 'n' is not an integer, return the message "It is a String!"
-         return "It is a String!"     
+        return "It is a String!"     
 
 print(test(12))
 print(test('23312'))
