@@ -10,6 +10,4 @@ def test(n):
 
 # Call the 'test' function with an integer argument (12) and print the result.
 print(test(12))
-
-# Call the 'test' function with a string argument ('23312') and print the result.
 print(test('23312'))
