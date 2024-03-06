@@ -13,7 +13,6 @@ def check_type(nums):
     else:
         return 'Neither a list or a set or a tuple.'
 
-# Define a variable 'x' as a list and check its type using the 'check_type' function.
 x = ['a', 'b', 'c', 'd']
 print(check_type(x))
 x = {'a', 'b', 'c', 'd'}
