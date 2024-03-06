@@ -24,7 +24,5 @@ print(check_type(x))
 # Define a variable 'x' as a tuple and check its type using the 'check_type' function.
 x = ('tuple', False, 3.2, 1)
 print(check_type(x))
-
-# Define a variable 'x' as an integer and check its type using the 'check_type' function.
 x = 100
 print(check_type(x))
