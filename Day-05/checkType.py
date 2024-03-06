@@ -1,0 +1,30 @@
+# Define a function to check the type of a variable 'nums'.
+def check_type(nums):
+    # Check if 'nums' is a tuple and return a message.
+    if isinstance(x, tuple) == True:
+        return 'The variable x is a tuple'
+    # Check if 'nums' is a list and return a message.
+    elif isinstance(x, list) == True:
+        return 'The variable x is a list'
+    # Check if 'nums' is a set and return a message.
+    elif isinstance(x, set) == True:
+        return 'The variable x is a set'
+    # If 'nums' is none of the above types, return a generic message.
+    else:
+        return 'Neither a list or a set or a tuple.'
+
+# Define a variable 'x' as a list and check its type using the 'check_type' function.
+x = ['a', 'b', 'c', 'd']
+print(check_type(x))
+
+# Define a variable 'x' as a set and check its type using the 'check_type' function.
+x = {'a', 'b', 'c', 'd'}
+print(check_type(x))
+
+# Define a variable 'x' as a tuple and check its type using the 'check_type' function.
+x = ('tuple', False, 3.2, 1)
+print(check_type(x))
+
+# Define a variable 'x' as an integer and check its type using the 'check_type' function.
+x = 100
+print(check_type(x))
