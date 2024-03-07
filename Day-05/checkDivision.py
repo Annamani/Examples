@@ -1,4 +1,3 @@
-# Define a function named 'multiple' that takes two arguments, 'm' and 'n'.
 def multiple(m, n):
     return True if m % n == 0 else False
 
