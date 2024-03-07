@@ -10,5 +10,4 @@ def max_min(data):
     
     return max_value, min_value
 
-# Call the 'max_min' function with a list of numbers and print the result.
 print(max_min([0, 10, 15, 40, -5, 42, 17, 28, 75]))
