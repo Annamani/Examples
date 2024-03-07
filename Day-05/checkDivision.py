@@ -5,6 +5,5 @@ def multiple(m, n):
     # Otherwise, return False.
     return True if m % n == 0 else False
 
-# Call the 'multiple' function with different arguments and print the results.
 print(multiple(20, 5))  
 print(multiple(7, 2))   
