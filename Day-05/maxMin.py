@@ -1,4 +1,3 @@
-# Define a function named 'max_min' that takes a list 'data' as its argument.
 def max_min(data):
     # Initialize two variables 'l' and 's' with the first element of the 'data' list.
     l = data[0]  # 'l' is used to keep track of the maximum value.
