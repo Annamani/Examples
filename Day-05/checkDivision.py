@@ -7,4 +7,4 @@ def multiple(m, n):
 
 # Call the 'multiple' function with different arguments and print the results.
 print(multiple(20, 5))  
-print(multiple(7, 2))   # Check if 7 is a multiple of 2 and print the result.
+print(multiple(7, 2))   
