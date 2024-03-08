@@ -1,6 +1,4 @@
 x = input("Input the first number: ")
-
-# Input the second number from the user
 y = input("Input the second number: ")
 
 # Input the third number from the user
