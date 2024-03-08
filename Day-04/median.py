@@ -2,8 +2,6 @@ x = input("Input the first number: ")
 y = input("Input the second number: ")
 z = input("Input the third number: ")
 print("Median of the above three numbers -")
-
-# Check conditions to determine the median and print the result
 if y < x and x < z:
     print(x)
 elif z < x and x < y:
