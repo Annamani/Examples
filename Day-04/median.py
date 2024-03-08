@@ -1,4 +1,3 @@
-# Input the first number from the user
 x = input("Input the first number: ")
 
 # Input the second number from the user
