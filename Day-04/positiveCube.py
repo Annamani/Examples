@@ -1,3 +1,4 @@
+# Function to calculate the cube of a number til 1
 def cubeOfPositiveNumber(num):
     sum=0
     number=num-1
