@@ -1,8 +1,6 @@
 x = input("Input the first number: ")
 y = input("Input the second number: ")
 z = input("Input the third number: ")
-
-# Print a message indicating that the program will calculate the median
 print("Median of the above three numbers -")
 
 # Check conditions to determine the median and print the result
