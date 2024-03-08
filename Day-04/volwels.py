@@ -1,6 +1,4 @@
 import random
-
-# Create a list of characters containing vowels.
 char_list = ['a', 'e', 'i', 'o', 'u']
 
 # Shuffle the elements in the 'char_list' randomly.
