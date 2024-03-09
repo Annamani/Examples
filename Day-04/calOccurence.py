@@ -1,6 +1,3 @@
-# License: https://bit.ly/3oLErEI
-
-# Define a function named 'test' that takes a list 'nums' as input
 def test(nums):
     return len(nums) == 8 and nums.count(nums[4]) == 3
 
