@@ -45,6 +45,4 @@ nums = [19, 15, 11, 7, 5, 6, 2]
 print("\nOriginal list:")
 print(nums)
 
-# Print the result of the test function applied to the modified 'nums' list
-print("Check whether the length of the said list is 8 and fifth element occurs thrice in the said list. :")
 print(test(nums))
