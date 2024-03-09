@@ -40,9 +40,6 @@ print(test(nums))
 
 # Create one more list 'nums' with specific elements
 nums = [19, 15, 11, 7, 5, 6, 2]
-
-# Print the original list
 print("\nOriginal list:")
 print(nums)
-
 print(test(nums))
