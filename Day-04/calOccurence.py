@@ -2,7 +2,6 @@
 
 # Define a function named 'test' that takes a list 'nums' as input
 def test(nums):
-    # Check if the length of 'nums' is 8 and the count of the fifth element in 'nums' is equal to 3
     return len(nums) == 8 and nums.count(nums[4]) == 3
 
 # Create a list 'nums' with specific elements
