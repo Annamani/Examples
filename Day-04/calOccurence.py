@@ -7,8 +7,6 @@ def test(nums):
 
 # Create a list 'nums' with specific elements
 nums = [19, 19, 15, 5, 5, 5, 1, 2]
-
-# Print the original list
 print("Original list:")
 print(nums)
 print(test(nums))
