@@ -1,4 +1,3 @@
-# Create an empty list to store formatted numbers.
 numbers = []
 
 for num in range(1000):
