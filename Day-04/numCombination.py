@@ -8,6 +8,4 @@ for num in range(1000):
 
 # Print the last formatted number (outside the loop, indentation issue).
 print(num)
-
-# Append the last formatted number to the 'numbers' list.
 numbers.append(num)
