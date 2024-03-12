@@ -26,7 +26,5 @@ print(nums)
 # Print the result of the test function applied to the modified 'nums' list
 print("Check two occurrences of nineteen and at least three occurrences of five in the said list:")
 print(test(nums))
-
-# Create another list 'nums' with specific elements
 nums = [19, 19, 5, 5, 5, 5, 5]
 print(test(nums))
