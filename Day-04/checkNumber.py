@@ -7,24 +7,6 @@ def test(nums):
 
 # Create a list 'nums' with specific elements
 nums = [19, 19, 15, 5, 3, 5, 5, 2]
-
-# Print the original list
-print("Original list:")
-print(nums)
-
-# Print the result of the test function applied to the 'nums' list
-print("Check two occurrences of nineteen and at least three occurrences of five in the said list:")
-print(test(nums))
-
-# Create a different list 'nums' with specific elements
-nums = [19, 15, 15, 5, 3, 3, 5, 2]
-
-# Print the original list
-print("\nOriginal list:")
-print(nums)
-
-# Print the result of the test function applied to the modified 'nums' list
-print("Check two occurrences of nineteen and at least three occurrences of five in the said list:")
 print(test(nums))
 nums = [19, 19, 5, 5, 5, 5, 5]
 print(test(nums))
