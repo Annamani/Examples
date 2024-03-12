@@ -1,6 +1,3 @@
-# License: https://bit.ly/3oLErEI
-
-# Define a function named 'test' that takes a list 'nums' as input
 def test(nums):
     return nums.count(19) == 2 and nums.count(5) >= 3
 
