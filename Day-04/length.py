@@ -7,8 +7,6 @@ print(strs)
 print("Lengths of the said list of non-empty strings:")
 print(test(strs))
 strs = ['cat', 'dog', 'shatter', 'donut', 'at', 'todo', '']
-
-# Print the original list of strings
 print("\nOriginal strings:")
 print(strs)
 
