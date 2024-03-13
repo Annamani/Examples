@@ -8,8 +8,6 @@ print(strs)
 # Print a message indicating the operation to be performed on the list
 print("Lengths of the said list of non-empty strings:")
 print(test(strs))
-
-# Create a different list of strings 'strs' with specific elements
 strs = ['cat', 'dog', 'shatter', 'donut', 'at', 'todo', '']
 
 # Print the original list of strings
