@@ -4,8 +4,6 @@ def test(strs):
 strs = ['cat', 'car', 'fear', 'center']
 print("Original strings:")
 print(strs)
-
-# Print a message indicating the operation to be performed on the list
 print("Lengths of the said list of non-empty strings:")
 print(test(strs))
 strs = ['cat', 'dog', 'shatter', 'donut', 'at', 'todo', '']
