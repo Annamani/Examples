@@ -1,6 +1,3 @@
-# License: https://bit.ly/3oLErEI
-
-# Define a function named 'test' that takes a list of strings 'strs' as input
 def test(strs):
     # Use the map function to apply the len function to each string in 'strs', and convert the result to a list
     return [*map(len, strs)]
