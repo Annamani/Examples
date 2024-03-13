@@ -7,8 +7,6 @@ print(strs)
 
 # Print a message indicating the operation to be performed on the list
 print("Lengths of the said list of non-empty strings:")
-
-# Print the result of the test function applied to the 'strs' list
 print(test(strs))
 
 # Create a different list of strings 'strs' with specific elements
