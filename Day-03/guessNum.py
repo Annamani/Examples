@@ -1,7 +1,4 @@
-# Import the 'random' module to generate random numbers
 import random
-
-# Generate a random number between 1 and 10 (inclusive) as the target number
 target_num, guess_num = random.randint(1, 10), 0
 
 # Start a loop that continues until the guessed number matches the target number
