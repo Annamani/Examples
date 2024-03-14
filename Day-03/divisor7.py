@@ -1,4 +1,3 @@
-# Create an empty list to store numbers that meet the given conditions
 nl = []
 
 # Iterate through numbers from 1500 to 2700 (inclusive)
