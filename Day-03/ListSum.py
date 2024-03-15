@@ -10,5 +10,5 @@ def multiply(numbers):
         mul_value *= x
     return mul_value
 
-print(sum((8, 2, 3, 0, 7))) 
-print(multiply((8, 2, 3, 0, 7)))
+print(sum((8, 2, 3, 0, 7)))
+print(multiply((8, 2, 3, -1, 7))) 
