@@ -1,9 +1,5 @@
-# Define a function named 'sum' that takes a list of numbers as input
 def sum(numbers):
-    # Initialize a variable 'total' to store the sum of numbers, starting at 0
     total = 0
-    
-    # Iterate through each element 'x' in the 'numbers' list
     for x in numbers:
         # Add the current element 'x' to the 'total'
         total += x
