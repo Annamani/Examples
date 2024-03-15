@@ -5,7 +5,7 @@ def sum(numbers):
     return total
 
 def multiply(numbers):
-    mul_value = 0
+    mul_value = 1
     for x in numbers:
         mul_value *= x
     return mul_value
