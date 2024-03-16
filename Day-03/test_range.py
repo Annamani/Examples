@@ -4,6 +4,5 @@ def test_range(num):
     else:
         print(num," is NOT in the Given range")
 
-
 num=int(input("Enter a number: "))
 test_range(num)
