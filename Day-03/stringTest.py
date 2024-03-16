@@ -17,14 +17,8 @@ def string_test(s):
             # If 'c' is neither upper nor lower case (e.g., punctuation, spaces), do nothing
             pass
     
-    # Print the original string 's'
     print("Original String: ", s)
-    
-    # Print the count of upper case characters
     print("No. of Upper case characters: ", d["UPPER_CASE"])
-    
-    # Print the count of lower case characters
     print("No. of Lower case Characters: ", d["LOWER_CASE"])
 
-# Call the 'string_test' function with the input string 'The quick Brown Fox'
 string_test('The quick Brown Fox') 
