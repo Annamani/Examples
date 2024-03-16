@@ -8,12 +8,7 @@ def string_reverse(str1):
     while index > 0:
         # Concatenate the character at index - 1 of 'str1' to 'rstr1'
         rstr1 += str1[index - 1]
-        
-        # Decrement the 'index' by 1 for the next iteration
         index = index - 1
-    
-    # Return the reversed string stored in 'rstr1'
     return rstr1
 
-# Print the result of calling the 'string_reverse' function with the input string '1234abcd'
 print(string_reverse('1234abcd'))
