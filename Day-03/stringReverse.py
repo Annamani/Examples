@@ -1,6 +1,4 @@
-# Define a function named 'string_reverse' that takes a string 'str1' as input
 def string_reverse(str1):
-    # Initialize an empty string 'rstr1' to store the reversed string
     rstr1 = ''
     
     # Calculate the length of the input string 'str1'
