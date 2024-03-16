@@ -3,8 +3,6 @@ def string_reverse(str1):
     
     # Calculate the length of the input string 'str1'
     index = len(str1)
-    
-    # Execute a while loop until 'index' becomes 0
     while index > 0:
         rstr1 += str1[index - 1]
         index = index - 1
