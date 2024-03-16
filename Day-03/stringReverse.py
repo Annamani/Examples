@@ -6,7 +6,6 @@ def string_reverse(str1):
     
     # Execute a while loop until 'index' becomes 0
     while index > 0:
-        # Concatenate the character at index - 1 of 'str1' to 'rstr1'
         rstr1 += str1[index - 1]
         index = index - 1
     return rstr1
