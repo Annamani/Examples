@@ -5,12 +5,8 @@ def is_even_num(l):
     
     # Iterate through each number 'n' in the input list 'l'
     for n in l:
-        # Check if the number 'n' is even (divisible by 2 without a remainder)
         if n % 2 == 0:
-            # If 'n' is even, append it to the 'enum' list
             enum.append(n)
-    
-    # Return the list 'enum' containing even numbers
     return enum
 
 print(is_even_num([1, 2, 3, 4, 5, 6, 7, 8, 9])) 
