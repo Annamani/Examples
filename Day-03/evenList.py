@@ -13,5 +13,4 @@ def is_even_num(l):
     # Return the list 'enum' containing even numbers
     return enum
 
-# Print the result of calling the 'is_even_num' function with a list of numbers
 print(is_even_num([1, 2, 3, 4, 5, 6, 7, 8, 9])) 
