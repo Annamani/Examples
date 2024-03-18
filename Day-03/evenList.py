@@ -2,8 +2,6 @@
 def is_even_num(l):
     # Create an empty list 'enum' to store even numbers
     enum = []
-    
-    # Iterate through each number 'n' in the input list 'l'
     for n in l:
         if n % 2 == 0:
             enum.append(n)
