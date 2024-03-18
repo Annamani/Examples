@@ -1,4 +1,3 @@
-# Define a function named 'is_even_num' that takes a list 'l' as input and returns a list of even numbers
 def is_even_num(l):
     enum = []
     for n in l:
