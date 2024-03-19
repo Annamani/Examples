@@ -2,8 +2,6 @@
 def unique_list(l):
     # Create an empty list 'x' to store unique elements
     x = []
-    
-    # Iterate through each element 'a' in the input list 'l'
     for a in l:
         if a not in x:
             x.append(a)
