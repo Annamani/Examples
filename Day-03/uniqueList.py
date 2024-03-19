@@ -9,7 +9,5 @@ def unique_list(l):
         if a not in x:
             # If 'a' is not in 'x', add it to the list 'x'
             x.append(a)
-    
-    # Return the list 'x' containing unique elements
     return x
 print(unique_list([1, 2, 3, 3, 3, 3, 4, 5]))  
