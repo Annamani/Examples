@@ -1,4 +1,3 @@
-# Define a function named 'unique_list' that takes a list 'l' as input and returns a list of unique elements
 def unique_list(l):
     x = []
     for a in l:
