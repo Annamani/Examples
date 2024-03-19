@@ -7,7 +7,6 @@ def unique_list(l):
     for a in l:
         # Check if the element 'a' is not already present in the list 'x'
         if a not in x:
-            # If 'a' is not in 'x', add it to the list 'x'
             x.append(a)
     return x
 print(unique_list([1, 2, 3, 3, 3, 3, 4, 5]))  
