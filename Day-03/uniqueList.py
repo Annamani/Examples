@@ -5,7 +5,6 @@ def unique_list(l):
     
     # Iterate through each element 'a' in the input list 'l'
     for a in l:
-        # Check if the element 'a' is not already present in the list 'x'
         if a not in x:
             x.append(a)
     return x
