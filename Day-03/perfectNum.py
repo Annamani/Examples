@@ -13,5 +13,4 @@ def perfect_number(n):
     # Check if the 'sum' of factors is equal to the original number 'n'
     return sum == n
 
-# Print the result of checking if 6 is a perfect number by calling the 'perfect_number' function
 print(perfect_number(6)) 
