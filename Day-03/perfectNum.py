@@ -9,8 +9,6 @@ def perfect_number(n):
         if n % x == 0:
             # If 'x' is a factor of 'n', add it to the 'sum'
             sum += x
-    
-    # Check if the 'sum' of factors is equal to the original number 'n'
     return sum == n
 
 print(perfect_number(6)) 
