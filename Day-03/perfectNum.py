@@ -5,7 +5,6 @@ def perfect_number(n):
     
     # Iterate through numbers from 1 to 'n-1' using 'x' as the iterator
     for x in range(1, n):
-        # Check if 'x' is a factor of 'n' (divides 'n' without remainder)
         if n % x == 0:
             sum += x
     return sum == n
