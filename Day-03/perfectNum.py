@@ -2,8 +2,6 @@
 def perfect_number(n):
     # Initialize a variable 'sum' to store the sum of factors of 'n'
     sum = 0
-    
-    # Iterate through numbers from 1 to 'n-1' using 'x' as the iterator
     for x in range(1, n):
         if n % x == 0:
             sum += x
