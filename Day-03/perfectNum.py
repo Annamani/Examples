@@ -1,4 +1,3 @@
-# Define a function named 'perfect_number' that checks if a number 'n' is a perfect number
 def perfect_number(n):
     sum = 0
     for x in range(1, n):
