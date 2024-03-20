@@ -7,7 +7,6 @@ def perfect_number(n):
     for x in range(1, n):
         # Check if 'x' is a factor of 'n' (divides 'n' without remainder)
         if n % x == 0:
-            # If 'x' is a factor of 'n', add it to the 'sum'
             sum += x
     return sum == n
 
