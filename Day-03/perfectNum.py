@@ -6,3 +6,4 @@ def perfect_number(n):
     return sum == n
 
 print(perfect_number(6)) 
+print(perfect_number(62)) 
