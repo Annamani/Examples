@@ -7,3 +7,4 @@ def perfect_number(n):
 
 print(perfect_number(6)) 
 print(perfect_number(62)) 
+print(perfect_number(28)) 
