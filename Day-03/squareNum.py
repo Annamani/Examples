@@ -10,6 +10,4 @@ def printValues():
     
     # Print the list containing squares of numbers from 1 to 20
     print(l)
-
-# Call the 'printValues' function to generate and print the list of squares
 printValues()
