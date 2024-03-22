@@ -5,7 +5,6 @@ def printValues():
     
     # Iterate through numbers from 1 to 20 (inclusive)
     for i in range(1, 21):
-        # Calculate the square of 'i' and append it to the list 'l'
         l.append(i**2)
 print(l)
 printValues()
