@@ -7,7 +7,5 @@ def printValues():
     for i in range(1, 21):
         # Calculate the square of 'i' and append it to the list 'l'
         l.append(i**2)
-    
-    # Print the list containing squares of numbers from 1 to 20
-    print(l)
+print(l)
 printValues()
