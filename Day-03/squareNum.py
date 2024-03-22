@@ -1,4 +1,3 @@
-# Define a function named 'printValues' that generates a list of squares of numbers from 1 to 20
 def printValues():
     l = list()
     for i in range(1, 21):
