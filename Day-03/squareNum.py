@@ -12,4 +12,4 @@ def printValues():
     print(l)
 
 # Call the 'printValues' function to generate and print the list of squares
-printValues() 
+printValues()
