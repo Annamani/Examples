@@ -1,8 +1,2 @@
-Welcome to this file                                                                                    
-Append this text.
-Append this text.
-Append this text.                                                           
-Append this text.                                                                                             
-Append this text.                                                                                             
-Append this text.                                                                                             
-Append this text. 
+Python Exercises
+Java Exercises
