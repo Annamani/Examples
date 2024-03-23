@@ -1,5 +1,5 @@
 def file_read(fname):
-        content_array = []
+    content_array = []
         with open(fname) as f:
                 for line in f:
                     content_array.append(line)
