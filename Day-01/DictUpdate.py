@@ -10,3 +10,4 @@ dict_var={"color1":"Green",
           "color4":"Black",
           "color5":"Gray",
           "color6":"Violet"}
+print(dict_var)
