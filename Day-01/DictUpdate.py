@@ -11,3 +11,6 @@ dict_var={"color1":"Green",
           "color5":"Gray",
           "color6":"Violet"}
 print(dict_var)
+print("Update the dictionary values")
+dict_var[4]="pink"
+print(dict_var)
