@@ -8,6 +8,5 @@ dic4 = {}
 
 # Iterate through each dictionary ('dic1', 'dic2', and 'dic3') using a loop.
 for d in (dic1, dic2, dic3):
-    # Update 'dic4' by adding the key-value pairs from the current dictionary 'd'.
     dic4.update(d)
 print(dic4) 
