@@ -10,6 +10,4 @@ dic4 = {}
 for d in (dic1, dic2, dic3):
     # Update 'dic4' by adding the key-value pairs from the current dictionary 'd'.
     dic4.update(d)
-
-# Print the combined dictionary 'dic4' containing all the key-value pairs from 'dic1', 'dic2', and 'dic3'.
 print(dic4) 
