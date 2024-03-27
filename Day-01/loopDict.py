@@ -4,4 +4,6 @@ d={'color1':'Red',
    'color4':'pink',
    'color5':'yellow'}
 for key,value in d.items():
+    d[key]=value
+print(d)
 
