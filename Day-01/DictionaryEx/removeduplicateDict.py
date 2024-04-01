@@ -25,7 +25,6 @@ result = {}
 
 for key, value in student_data.items():
     if value not in result.values():
-        # If the 'value' is not already in 'result', add it to 'result' with its corresponding 'key'.
         result[key] = value
 
 print(result) 
