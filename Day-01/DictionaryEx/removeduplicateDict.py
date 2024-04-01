@@ -1,4 +1,3 @@
-# Create a nested dictionary 'student_data' containing information about students with unique IDs.
 student_data = {
     'id1': {
         'name': ['Sara'],
