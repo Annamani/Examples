@@ -24,7 +24,6 @@ student_data = {
 result = {}
 
 for key, value in student_data.items():
-    # Check if the current 'value' (student record) is not already in the 'result' dictionary.
     if value not in result.values():
         # If the 'value' is not already in 'result', add it to 'result' with its corresponding 'key'.
         result[key] = value
