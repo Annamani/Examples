@@ -32,5 +32,4 @@ for key, value in student_data.items():
         # If the 'value' is not already in 'result', add it to 'result' with its corresponding 'key'.
         result[key] = value
 
-# Print the 'result' dictionary containing unique student records.
 print(result) 
