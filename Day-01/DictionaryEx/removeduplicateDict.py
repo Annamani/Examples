@@ -23,7 +23,6 @@ student_data = {
 
 result = {}
 
-# Iterate through the key-value pairs in the 'student_data' dictionary using a for loop.
 for key, value in student_data.items():
     # Check if the current 'value' (student record) is not already in the 'result' dictionary.
     if value not in result.values():
