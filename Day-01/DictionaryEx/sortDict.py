@@ -1,4 +1,3 @@
-# Create a dictionary 'color_dict' with color names as keys and their corresponding color codes in hexadecimal format as values.
 color_dict = {
     'red': '#FF0000',
     'green': '#008000',
