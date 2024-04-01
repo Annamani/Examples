@@ -21,7 +21,6 @@ student_data = {
     }
 }
 
-# Create an empty dictionary 'result' to store unique student records.
 result = {}
 
 # Iterate through the key-value pairs in the 'student_data' dictionary using a for loop.
